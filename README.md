@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=medaminechehoudi&label=Profile%20views&color=0e75b6&style=flat" alt="medaminechehoudi" />
 </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR2eG9uMHEzdW4waXBieWdoZnYxNmt1aTNicXBlMm9oNzVxdmJzeiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="250" alt="Game Dev GIF">
+</p>
+
 
 ---
 
