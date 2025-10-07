@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mouhamed Amine Chehoudi</h1>
-<h3 align="center">🎮 A Game Developer </h3>
+<h3 align="center">🎮 A Game Developer from Tunisia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=medaminechehoudi&label=Profile%20views&color=0e75b6&style=flat" alt="medaminechehoudi" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpaW52bWs4YXlsamp0NXZkNnVycmR3MnZyenRvdmdvZTRwZTJ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Fun Game Dev GIF" width="500"/>
 </p>
 
 ---
