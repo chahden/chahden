@@ -53,7 +53,6 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="aftereffects" width="40" height="40"/></a>
-<img width="40" height="40"  src=[https://github.com/user-attachments/assets/fb4775c8-b3d2-4389-b204-2ea3f4f6abd9/]>
 <img width="40" height="40" alt="3ds-max-full-logo-png-transparent" src="https://github.com/user-attachments/assets/6054c4d7-c089-41be-bc33-4c9be5b4fea0" />
 <img width="40" height="40" alt="Moho-Pro-logo" src="https://github.com/user-attachments/assets/4572d99b-dc2c-4245-b854-2f7b23f09a61" />
 
