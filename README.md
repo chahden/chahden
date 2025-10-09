@@ -47,15 +47,14 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/></a>
-<a href="https://www.autodesk.com/products/3ds-max/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/3ds_Max_Icon.png/600px-3ds_Max_Icon.png" alt="3dsmax" width="40" height="40"/></a>
-<a href="https://pixologic.com/zbrush/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ZBrush_logo.svg/256px-ZBrush_logo.svg.png" alt="zbrush" width="40" height="40"/></a>
-<a href="https://moho.lostmarble.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Moho_logo.svg/256px-Moho_logo.svg.png" alt="moho" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1024px-Adobe_After_Effects_CC_icon.svg.png" alt="aftereffects" width="40" height="40"/></a>
-<a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maya_2020_icon.svg/256px-Maya_2020_icon.svg.png" alt="maya" width="40" height="40"/></a>
+  <img src="assets/icons/unity.png" alt="Unity" width="40" height="40"/>
+  <img src="assets/icons/csharp.png" alt="C#" width="40" height="40"/>
+  <img src="assets/icons/cpp.png" alt="C++" width="40" height="40"/>
+  <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
+  <img src="assets/icons/3dsmax.png" alt="3ds Max" width="40" height="40"/>
+  <img src="assets/icons/zbrush.png" alt="ZBrush" width="40" height="40"/>
+  <img src="assets/icons/moho.png" alt="Moho" width="40" height="40"/>
+  <img src="assets/icons/photoshop.png" alt="Photoshop" width="40" height="40"/>
+  <img src="assets/icons/aftereffects.png" alt="After Effects" width="40" height="40"/>
+  <img src="assets/icons/maya.png" alt="Maya" width="40" height="40"/>
 </p>
