@@ -52,8 +52,6 @@
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-<a href="https://moho.lostmarble.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/moho-logo-0F76E15A2D-seeklogo.com.png" alt="moho" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="aftereffects" width="40" height="40"/></a>
-<a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Maya_2020_icon.svg" alt="maya" width="40" height="40"/></a>
 </p>
 
