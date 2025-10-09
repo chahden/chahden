@@ -53,5 +53,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="aftereffects" width="40" height="40"/></a>
+<img width="40" height="40" alt="images" src="https://github.com/user-attachments/assets/3ee2803a-ecd2-44b0-b8ab-b745c7d91c62" />
+
 </p>
 
