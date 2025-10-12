@@ -55,7 +55,6 @@
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="aftereffects" width="40" height="40"/></a>
 <img width="40" height="40" alt="3ds-max-full-logo-png-transparent" src="https://github.com/user-attachments/assets/6054c4d7-c089-41be-bc33-4c9be5b4fea0" />
 <img width="40" height="40" alt="Moho-Pro-logo" src="https://github.com/user-attachments/assets/4572d99b-dc2c-4245-b854-2f7b23f09a61" />
-<img width="40" height="40" alt="Zbrush-logo" src="https://github.com/user-attachments/assets/74318a77-f2ee-4b18-826d-fcb4581465af" />
 <img width="40" height="40" alt="Maya-logo" src="https://github.com/user-attachments/assets/53326d91-eba2-4a7f-8891-7a0418ddd95d" />
 
 
