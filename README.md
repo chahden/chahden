@@ -24,10 +24,46 @@
 
 ---
 
-### 🌐 Languages
-- **Arabic:** Native  
-- **English:** Fluent (Professional Proficiency)  
-- **French:** Conversational (Basic Communication)
+💻 Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,html,css" /> </p>
+🎮 Game Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=unity,unreal" /> </p>
+
+Unity • C# • Unreal Engine • Game AI • NPC AI • FSM • Utility AI • NavMesh • Animator • Blend Trees • Cinemachine • Gameplay Programming • 2D/2.5D/3D
+
+🌐 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,reactivex,vite,angular,html,css,js,ts" /> </p>
+
+React • React Native • Expo • Angular • Vite • JavaScript • TypeScript • HTML5 • CSS3
+
+☕ Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /> </p>
+
+Java • Spring Boot • Spring Security • Node.js • Express.js • REST APIs • JWT
+
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /> </p>
+
+MySQL • PostgreSQL • MongoDB • SQLite
+
+🔐 Security
+
+JWT • Spring Security • Authentication & Authorization • REST API Security • Hashing • Basic Cybersecurity
+
+🛠️ Tools & Development Environment
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,docker,postman" /> </p>
+
+Git • GitHub • VS Code • Visual Studio • Android Studio • Docker • Postman
+
+🎨 Design & Creative Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=photoshop,aftereffects" /> </p>
+
+Adobe Photoshop • After Effects • Maya • Piskel • Moho
+
+⚙️ Other
+<p align="left"> <img src="https://skillicons.dev/icons?i=linux,powershell,bash" /> </p>
+
+Linux • PowerShell • Bash • Terminal / CLI
 
 ---
 
@@ -45,18 +81,5 @@
 
 ---
 
-### 🧰 Languages and Tools:
-<p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" alt="aftereffects" width="40" height="40"/></a>
-<img width="40" height="40" alt="3ds-max-full-logo-png-transparent" src="https://github.com/user-attachments/assets/6054c4d7-c089-41be-bc33-4c9be5b4fea0" />
-<img width="40" height="40" alt="Moho-Pro-logo" src="https://github.com/user-attachments/assets/4572d99b-dc2c-4245-b854-2f7b23f09a61" />
-<img width="40" height="40" alt="Maya-logo" src="https://github.com/user-attachments/assets/53326d91-eba2-4a7f-8891-7a0418ddd95d" />
 
-
-</p>
 
