@@ -84,7 +84,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/medamine-chehoudi" target="blank">
+<a href="www.linkedin.com/in/chahden" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medamine chehoudi" height="30" width="40" />
 </a>
 </p>
